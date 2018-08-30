@@ -2,11 +2,11 @@ package 제03차시;
 
 public class 실습02 {
 	public static void main(String[] args) {
-		String a = "통신과";
+		String a = "통신과"; // =new String("통신과");
 
-		String b[] = {"인천","전자","마이스터고"};
-		
-		String c[]= new String[3];
+		String b[] = { "인천", "전자", "마이스터고" };
+
+		String c[] = new String[3];
 		c[0] = "인천";
 		c[1] = "전자";
 		c[2] = "마이스터고";
