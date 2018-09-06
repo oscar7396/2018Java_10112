@@ -38,7 +38,7 @@ public class 실습04 {
 			i++;
 		}
 		
-		//dowhile문의 예
+		//do while문의 예
 		i=1;
 		do {
 			System.out.println(i);
